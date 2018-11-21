@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Indie+Flower');
+/* Exceptional Realty CSS Style */
+
 p {
   font-size: 1em;
   line-height: 1.5em;
-  font-family: ;
+  font-family: 'Black Han Sans', sans-serif;
 }
 
 figcaption {
@@ -11,4 +14,9 @@ figcaption {
   font-family: Gerogia, "New Times Roman", serif; */
   font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
   color: green;
+  text-align: right;
+}
+
+.milk-text {
+  
 }
