@@ -18,5 +18,28 @@ figcaption {
 }
 
 .milk-text {
-  
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
+
+#logo {
+  background: aqua;
+}
+
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 {
+  font-family: 'Clicker Script', cursive;
+}
+
+#details a:link, #details a:link {
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: red;
 }
